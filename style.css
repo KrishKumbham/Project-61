@@ -1,0 +1,16 @@
+html{
+  text-align: center; 
+    text-decoration: underline;
+    background-color: crimson;
+}
+.line{
+    background-color: black;
+}
+img{
+    border: solid 6px black;
+    width:600px ;
+    height:500px;
+}
+h3{
+    display: inline;
+}
